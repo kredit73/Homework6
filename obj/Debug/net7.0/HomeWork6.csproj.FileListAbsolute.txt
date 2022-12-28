@@ -1,0 +1,15 @@
+D:\Languages\Лекции\Seminar_5\HomeWork6\obj\Debug\net7.0\HomeWork6.csproj.AssemblyReference.cache
+D:\Languages\Лекции\Seminar_5\HomeWork6\obj\Debug\net7.0\HomeWork6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Languages\Лекции\Seminar_5\HomeWork6\obj\Debug\net7.0\HomeWork6.AssemblyInfoInputs.cache
+D:\Languages\Лекции\Seminar_5\HomeWork6\obj\Debug\net7.0\HomeWork6.AssemblyInfo.cs
+D:\Languages\Лекции\Seminar_5\HomeWork6\obj\Debug\net7.0\HomeWork6.csproj.CoreCompileInputs.cache
+D:\Languages\Лекции\Seminar_5\HomeWork6\bin\Debug\net7.0\HomeWork6.exe
+D:\Languages\Лекции\Seminar_5\HomeWork6\bin\Debug\net7.0\HomeWork6.deps.json
+D:\Languages\Лекции\Seminar_5\HomeWork6\bin\Debug\net7.0\HomeWork6.runtimeconfig.json
+D:\Languages\Лекции\Seminar_5\HomeWork6\bin\Debug\net7.0\HomeWork6.dll
+D:\Languages\Лекции\Seminar_5\HomeWork6\bin\Debug\net7.0\HomeWork6.pdb
+D:\Languages\Лекции\Seminar_5\HomeWork6\obj\Debug\net7.0\HomeWork6.dll
+D:\Languages\Лекции\Seminar_5\HomeWork6\obj\Debug\net7.0\refint\HomeWork6.dll
+D:\Languages\Лекции\Seminar_5\HomeWork6\obj\Debug\net7.0\HomeWork6.pdb
+D:\Languages\Лекции\Seminar_5\HomeWork6\obj\Debug\net7.0\HomeWork6.genruntimeconfig.cache
+D:\Languages\Лекции\Seminar_5\HomeWork6\obj\Debug\net7.0\ref\HomeWork6.dll
